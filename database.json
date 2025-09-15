@@ -1,4 +1,12 @@
 {
-  "users": [],
+  "users": [
+    {
+      "storeName": "GUSTZY DIGITAL",
+      "ownerName": "GUSTI",
+      "phone": "081313876060",
+      "email": "gg@com",
+      "password": "112233"
+    }
+  ],
   "sales": []
 }
