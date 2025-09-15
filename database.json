@@ -8,5 +8,13 @@
       "password": "112233"
     }
   ],
-  "sales": []
+  "sales": [
+    {
+      "itemName": "nokos",
+      "quantity": 10,
+      "total": 5000,
+      "date": "2025-09-15T13:29:48.934Z",
+      "recordedBy": "gg@com"
+    }
+  ]
 }
